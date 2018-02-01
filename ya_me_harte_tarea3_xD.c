@@ -68,3 +68,4 @@ main (void)
   return 0;
 }
 
+// ejemplo http://www.gnu.org/software/libc/manual/html_node/Variadic-Example.html
